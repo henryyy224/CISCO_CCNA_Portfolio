@@ -18,3 +18,7 @@ I have a background in **Java (AP CSA)**, I am particularly interested in **NetD
 * **Networking:** Subnetting (VLSM), VLANs, STP, EtherChannel.
 * **Programming:** Java (Object-Oriented Design), Python (Automation-focused).
 * **Tools:** Cisco Packet Tracer, Wireshark, VS Code, Git/GitHub, IntelliJ IDEA.
+
+---
+## 📬 Contact Me
+* **Email:** henry.liu1978@outlook.com
