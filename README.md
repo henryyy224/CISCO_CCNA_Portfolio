@@ -20,5 +20,5 @@ I have a background in **Java (AP CSA)**, I am particularly interested in **NetD
 * **Tools:** Cisco Packet Tracer, Wireshark, VS Code, Git/GitHub, IntelliJ IDEA.
 
 ---
-## 📬 Contact Me
+📬 Contact Me
 * **Email:** henry.liu1978@outlook.com
