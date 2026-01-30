@@ -11,6 +11,7 @@ I have a background in **Java (AP CSA)**, I am particularly interested in **NetD
 ---
 
 🚀 Projects & Labs
+
 *Coming Soon: Categorized by CCNA Exam Domains/Units*
 
 🛠️ My Skillset
